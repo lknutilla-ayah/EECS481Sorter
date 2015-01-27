@@ -1,17 +1,17 @@
 EECS 481 Student Group Sorter
 **by Laura Knutilla
 
-To Run:
-    1) Download file. Contains:
+<ul>To Run:</ul>
+    <li>1) Download file. Contains:
         Makefile
         main.h/.cpp
         groups.h/.cpp
-        preferences.h/.cpp
-    2) Add your text files (see Inputs section for format):
+        preferences.h/.cpp</li>
+    <li>2) Add your text files (see Inputs section for format):
         a)List of students and preferences
-        b)List of leaders and preferences
-    3)run "make" from folder
-    4)run ./teams [students_file] [preferences_file]
+        b)List of leaders and preferences</li>
+    <li>3)run "make" from folder</li>
+    <li>4)run ./teams [students_file] [preferences_file]</li>
 
 Inputs:
 
